@@ -12,6 +12,6 @@ Only the TIMESTAMP is updated - not the file itself.
 
 Usage:
 ```
- python3 tsfix /srcdir /targetdir
+ python3 tsfix.py /srcdir /targetdir
 ```
 
