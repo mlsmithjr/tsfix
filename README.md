@@ -11,7 +11,7 @@ The source and target folders must be the same structure and mostly the same fil
 Only the TIMESTAMP is updated - not the file itself.
 
 Usage:
-`
+```
  python3 tsfix _/srcdir /targetdir_
-`
+```
 
